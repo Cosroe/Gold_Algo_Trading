@@ -7,3 +7,5 @@ References:
 
 1. Hyndman, R.J., & Athanasopoulos, G. (2021) *Forecasting: principles and practice*, 3rd edition, OTexts: Melbourne, Australia. OTexts.com/fpp3. Accessed on 02.09.2024.
 1. Studenmund, A. H., Johnson, B. K. (2017). A Practical Guide to Using Econometrics. United Kingdom: Pearson.
+
+Summary Report: ![](Gold.jpg)
